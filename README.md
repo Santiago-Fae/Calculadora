@@ -1,3 +1,3 @@
-# Calculadora
-Uma calculadora feita em Javascript
-- Projeto desenvolvido no Curso de desenvolvimento Web - UDEMY
+# Calculator
+A calculator made in Javascript.
+- Project developed in the Web Development Course - UDEMY
